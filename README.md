@@ -23,7 +23,8 @@ draw some logo's on the screen
 see https://github.com/cheops/fri3dCamp_Badge2020_Animated_Eye  
 
 ## extra micropython bluetooth
-
+peripheral device broadcasts changing rgb values  
+central device listens to broadcasts and updates its own leds  
 
 ## License
 
