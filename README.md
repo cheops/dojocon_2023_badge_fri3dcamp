@@ -1,16 +1,16 @@
 # dojocon_2023_badge_fri3dcamp
-fri3d camp badge programming examples for dojocon belgium 2023
+fri3d camp badge programming examples for dojocon belgium 2023  
 
-presentation can be found in coderdojo belgium coaches drive
-cdj :: Coaches / cdj :: DojoCon - Knowledge Sharing / 2023 / Presentations /  Badge Fri3dcamp /  Badge Fri3dcamp
-https://docs.google.com/presentation/d/1mUJ-Xjqan2qphiiOIgMhVWQE4DtRdgN5gB7rzYBqAPM/edit?usp=sharing
+presentation can be found in coderdojo belgium coaches drive  
+cdj :: Coaches / cdj :: DojoCon - Knowledge Sharing / 2023 / Presentations /  Badge Fri3dcamp /  Badge Fri3dcamp  
+https://docs.google.com/presentation/d/1mUJ-Xjqan2qphiiOIgMhVWQE4DtRdgN5gB7rzYBqAPM/edit?usp=sharing  
 
 ## Arduino example 1 pixels
-control the 5 neopixels on the badge
+control the 5 neopixels on the badge  
 cycle through rainbow colors
 
 ## Arduino example 2 tft
-draw the fri3d camp logo on the badge
+draw the fri3d camp logo on the badge  
 change the color of the logo (more rainbows)
 
 ## Micropython example 1
