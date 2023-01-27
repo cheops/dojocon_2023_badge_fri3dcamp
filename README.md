@@ -7,19 +7,23 @@ https://docs.google.com/presentation/d/1mUJ-Xjqan2qphiiOIgMhVWQE4DtRdgN5gB7rzYBq
 
 ## Arduino example 1 pixels
 control the 5 neopixels on the badge  
-cycle through rainbow colors
+cycle through rainbow colors  
 
 ## Arduino example 2 tft
 draw the fri3d camp logo on the badge  
-change the color of the logo (more rainbows)
+change the color of the logo (more rainbows)  
 
 ## Micropython example 1
+pixel effects  
 
 ## Micropython example 2
-https://github.com/mcauser/micropython-pcd8544/blob/master/examples/screen_saver.py
-https://commons.wikimedia.org/wiki/File:CoderDojo_Logo.png
+draw some logo's on the screen  
 
-## Arduino animated eye
+## extra Arduino animated eye
+see https://github.com/cheops/fri3dCamp_Badge2020_Animated_Eye  
+
+## extra micropython bluetooth
+
 
 ## License
 
